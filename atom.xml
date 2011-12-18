@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Redouane Zait</title>
+ <link href="http://redouanezait.com/atom.xml" rel="self"/>
+ <link href="http://redouanezait.com/"/>
+ <updated>2011-12-18T21:37:23+01:00</updated>
+ <id>http://redouanezait.com</id>
+ <author>
+   <name>Redouane Zait</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Réussir sur la toile algérienne</title>
+   <link href="http://redouanezait.com/2011/06/reussir-sur-toile-algerienne/"/>
+   <updated>2011-06-10T00:00:00+01:00</updated>
+   <id>http://redouanezait.com/2011/06/reussir-sur-toile-algerienne</id>
+   <content type="html">&lt;p&gt;Sur la toile algérienne, il Manque tout, sauf les sites d'annonces, chaque &amp;lsquo;dlala&quot; de quartier à son propre site d'annonce,
+ouedkniss, la3kiba, ou meme un certain &lt;a href=&quot;http://i.imgur.com/Zdb0Y.jpg&quot;&gt;bachdjarrah&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;désormais, tout le monde à son propre site d'annonces, mais pourquoi donc ? Cherchent ils tous le success de ouedkniss ? .&lt;/p&gt;
+
+&lt;p&gt;Retour en 2006, Oued kniss le vrai, est menacé de fermeture, ils sautent sur l'ocasion et enregistrent le domaine, leur raison d'etre est de réouvrir le marché, cette fois en ligne, Puis un article à la techcrunch du quotidien El Watan, du bouche à l'oreil. bref, Bon endroit, Bon moment, et surtout bonne execution, ouedkniss est désormais la premiere déstination pour publier ses annonces en algérie.&lt;/p&gt;
+
+&lt;p&gt;Pour battre le &amp;ldquo;King&amp;rdquo;, faut apporter quelque chose de nouveau à la table, mais pourquoi chercher à battre ouedkniss ? pourquoi ne pas tenter quelque chose d'autre de nouveau
+ce déséquilibre de services web, est il du au manque d'idées ou de compétences techniques ?&lt;/p&gt;
+
+&lt;h2&gt;une idée sans implémentation ne vaut rien&lt;/h2&gt;
+
+&lt;p&gt; si vous etes pas dévelopeur et que vous n'arrivez pas à former une bonne équipe, d'amis proches de préference, oubliez.
+ si vous etes égoiste et que vous cherchez à tout faire en solo, oubliez.&lt;/p&gt;
+
+&lt;h2&gt;une implémentation d'une idée pourrie ne vaut rien non plus&lt;/h2&gt;
+
+&lt;p&gt; c'est simple, si votre idée n'améliore pas le quotidient des algériens, ces derniers ne vont pas chercher à utiliser votre service
+ vous allez souffrir d'une mort rapide, ainsi qu'une perte de confidence.&lt;/p&gt;
+
+&lt;h2&gt;une implémentation pourrie d'une bonne idée est dangereuse&lt;/h2&gt;
+
+&lt;p&gt; il est clair que pour réussir faut avoir ou connaitre des gens qui ont de bonnes compétences techniques dans les domaines relatives à votre idée
+ les sites vite fait avec des CMS ne servent à rien, à part prouver l'incompétence et l'impatience de leur propriétaires, sans parler du risque de voir son reve s'envoler si quelquen d'autre décide de reprendre et implémenter votre idée, je sais pas comment les brevets d'invetions marchent en algérie, mais ca risque d'etre chaud.&lt;/p&gt;
+
+&lt;p&gt;L'idéal serait de penser à quelque chose,former une equipe, tenter le coup en créant un prototype, voir les réactions, puis itérer et lancer le service au bon moment. si ca marche pas c'est pas grave, &amp;ldquo;experience is what you get when you dont get what you want&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;le web algérien est encore jeune, et c'est pas les idées qui manquent, ya beaucoup de problèmes intéressants à tacler, alors à vos stylos! .&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
